@@ -15,5 +15,6 @@ sudo make
 相对于4.0，本次主要在main.cpp中添加了部分代码，main中增加了判断每一帧图像的类型，
 是谷物，刮板，还是空隙，这样有两个好处，第一是可以计算体积流量，第二是让自动计算速度成为可能。
 
+and create serialSend.cpp,making serial send easier,and the main.cppeasy to read
 
 */
