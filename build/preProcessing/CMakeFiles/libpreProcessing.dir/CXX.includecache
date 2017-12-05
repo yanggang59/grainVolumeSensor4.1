@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/preProcessing/preprocessing.cpp
+preprocessing.h
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/preProcessing/preprocessing.h
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/preProcessing/preprocessing.h
+opencv2/opencv.hpp
+-
+

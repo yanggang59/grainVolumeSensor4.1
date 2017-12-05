@@ -1,0 +1,2 @@
+/usr/bin/ar qc /lib/liblibserialSend.a  CMakeFiles/libserialSend.dir/serialSend.cpp.o
+/usr/bin/ranlib /lib/liblibserialSend.a

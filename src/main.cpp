@@ -77,7 +77,7 @@ int main()
 
 	Vec3f coeff(A, B, C);
 
-
+	sleep(10);
 	
       #ifdef USE_PRE_BG_IMAGE
 	Mat leftMask = imread("../../res/left_mask.jpg", 0);

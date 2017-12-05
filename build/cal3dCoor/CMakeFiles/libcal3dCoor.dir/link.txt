@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblibcal3dCoor.a  CMakeFiles/libcal3dCoor.dir/cal_3d_coor.cpp.o
+/usr/bin/ranlib ../lib/liblibcal3dCoor.a

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/serialSend/serialSend.cpp
+serialSend.h
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/serialSend/serialSend.h
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/serialSend/serialSend.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+errno.h
+-
+string.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/cal3dCoor/cal_3d_coor.cpp
+cal_3d_coor.h
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/cal3dCoor/cal_3d_coor.h
+ostream
+-
+fstream
+-
+
+/home/thomas/opencv_workspace/grainVolumeSensor4.1/cal3dCoor/cal_3d_coor.h
+opencv2/opencv.hpp
+-
+
